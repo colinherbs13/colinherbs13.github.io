@@ -9,6 +9,7 @@ I am a third-year student at the University of Arizona. I major in Electrical an
 - Memory allocation and File read/write in C
 - Tic-Tac-Toe in C++ using Minimax algorithm for AI
 - Code from previous coursework with descriptions
+![IMG-0772](https://user-images.githubusercontent.com/89946762/145726769-40f76dae-3826-4b02-b16a-75c9286afb4b.PNG)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
