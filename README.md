@@ -1,10 +1,14 @@
-## Hello! My Name is Colin Herbert
+# Hello! My Name is Colin Herbert
 
-You can use the [editor on GitHub](https://github.com/colinherbs13/colinherbs13.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a third-year student at the University of Arizona. I major in Electrical and Computer Engineering and am pursuing a minor in Computer Science. I am seeking a future career in Software Engineering, primarily in the back-end.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Projects on this Site
+- Horror/Puzzle game made from scratch in Java
+- To-Do List application in Python using Tkinter library
+- Hearts card game made in C
+- Memory allocation and File read/write in C
+- Tic-Tac-Toe in C++ using Minimax algorithm for AI
+- Code from previous coursework with descriptions
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -13,7 +17,7 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
+### Header 
 
 - Bulleted
 - List
