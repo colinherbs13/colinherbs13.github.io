@@ -15,7 +15,11 @@ I am a third-year student at the University of Arizona. I major in Electrical an
 ### Larry (Horror/Puzzle Game) (2021) [Link](insert github link)
 - description
 
-* insert image of title screen * 
+![image](https://user-images.githubusercontent.com/89946762/145727921-56191f86-9786-4f2d-8f34-e95d115a17ee.png)
+![image](https://user-images.githubusercontent.com/89946762/145727948-8c335524-c238-4b6c-8cb0-91c3a3bdc62f.png)
+![image](https://user-images.githubusercontent.com/89946762/145727990-a1a2cd70-7f21-4321-a99e-8878437e4815.png)
+![image](https://user-images.githubusercontent.com/89946762/145727961-effe2851-fc04-4760-b324-36332e281f7d.png)
+![image](https://user-images.githubusercontent.com/89946762/145728016-56fb0f05-17b6-4869-ba53-c719afabc9a4.png)
 
 ### To-Do-List Application (2020) [Link](https://github.com/colinherbs13/To-Do-List-App.git)
 - Simple to-do-list application utilizing the tkinter library.
@@ -31,7 +35,7 @@ I am a third-year student at the University of Arizona. I major in Electrical an
 ### Hearts Card Game (2019) [Link](upload to github and insert link)
 - description
 
-* insert image of app *
+![image](https://user-images.githubusercontent.com/89946762/145727863-b95b469b-3338-411c-aa6c-b8b1106912e8.png)
 
 ### Memory Allocation and File Read/Write in C (2019) [Link](upload to github and insert link)
 - description
@@ -41,7 +45,7 @@ I am a third-year student at the University of Arizona. I major in Electrical an
 ### Tic-Tac-Toe in C++ (2019) [Link](upload to github and insert link)
 - description
 
-* insert image of app * 
+![image](https://user-images.githubusercontent.com/89946762/145728130-991995b6-e8cc-446f-ae8e-0d9c5b680ba9.png)
 
 ### Previous Relevant Courseworks and Assignments [Link](upload to github and insert link)
 *ECE 175: Computer Programming with Engineering Applications 1 (C)*
