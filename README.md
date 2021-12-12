@@ -1,8 +1,7 @@
 # Hello! My Name is Colin Herbert
 
-* Insert Image of self here *
-
-I am a third-year student at the University of Arizona. I major in Electrical and Computer Engineering and am pursuing a minor in Computer Science. I am seeking a future career in Software Engineering, primarily in the back-end.
+![image](https://user-images.githubusercontent.com/89946762/145729873-5119f49d-99af-4dc5-aac3-f0310425b19f.png)
+I am a third-year student at the University of Arizona. I major in Electrical and Computer Engineering and am pursuing a minor in Computer Science. I am seeking a future career in Software Engineering, primarily in the back-end. Interests include sports (primarily baseball) and video games.
 
 ## Projects on this Site
 - Horror/Puzzle game made from scratch in Java
