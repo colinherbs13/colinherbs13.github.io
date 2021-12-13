@@ -32,7 +32,7 @@ I am a third-year student at the University of Arizona. I major in Electrical an
 
 ![image](https://user-images.githubusercontent.com/89946762/145727674-71c93e06-a195-4a12-baff-c70dfc2294e4.png)
 
-### Hearts Card Game (2019) [Link](upload to github and insert link)
+### Hearts Card Game (2019) [Link](https://github.com/colinherbs13/Hearts-Card-Game.git)
 - description
 
 ![image](https://user-images.githubusercontent.com/89946762/145727863-b95b469b-3338-411c-aa6c-b8b1106912e8.png)
