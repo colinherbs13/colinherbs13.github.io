@@ -12,7 +12,7 @@ I am a third-year student at the University of Arizona. I major in Electrical an
 - Tic-Tac-Toe in C++ using Minimax algorithm for AI
 - Code from previous coursework with descriptions
 
-### Larry (Horror/Puzzle Game) (2021) [Link](insert github link)
+### Larry (Horror/Puzzle Game) (2021) [Link](https://github.com/colinherbs13/Larry-Video-Game.git)
 - description
 
 ![image](https://user-images.githubusercontent.com/89946762/145727921-56191f86-9786-4f2d-8f34-e95d115a17ee.png)
