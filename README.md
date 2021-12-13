@@ -42,7 +42,7 @@ I am a third-year student at the University of Arizona. I major in Electrical an
 
 * insert image of app *
 
-### Tic-Tac-Toe in C++ (2019) [Link](upload to github and insert link)
+### Tic-Tac-Toe in C++ (2019) [Link](https://github.com/colinherbs13/Text-Based-Game-Collection.git)
 - description
 
 ![image](https://user-images.githubusercontent.com/89946762/145728130-991995b6-e8cc-446f-ae8e-0d9c5b680ba9.png)
