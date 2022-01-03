@@ -55,7 +55,7 @@ I am a third-year student at the University of Arizona. I major in Electrical an
 
 ![image](https://user-images.githubusercontent.com/89946762/145728130-991995b6-e8cc-446f-ae8e-0d9c5b680ba9.png)
 
-### Previous Relevant Courseworks and Assignments [Link](upload to github and insert link)
+### Previous Relevant Courseworks and Assignments (WIP) [Link](upload to github and insert link)
 *ECE 175: Computer Programming with Engineering Applications 1 (C)*
 - list basic functionality of assignments w/ links
 
