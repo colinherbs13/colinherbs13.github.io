@@ -1,7 +1,5 @@
 # Hello! My Name is Colin Herbert
 
-![image](https://user-images.githubusercontent.com/89946762/145729873-5119f49d-99af-4dc5-aac3-f0310425b19f.png)
-
 I am a third-year student at the University of Arizona. I major in Electrical and Computer Engineering and am pursuing a minor in Computer Science. I am seeking a future career in Software Engineering, primarily in the back-end. Interests include sports (primarily baseball) and video games.
 
 ## Projects on this Site
@@ -55,7 +53,7 @@ I am a third-year student at the University of Arizona. I major in Electrical an
 
 ![image](https://user-images.githubusercontent.com/89946762/145728130-991995b6-e8cc-446f-ae8e-0d9c5b680ba9.png)
 
-### Previous Relevant Courseworks and Assignments (WIP) [Link](upload to github and insert link)
+### Previous Relevant Courseworks and Assignments [Link](upload to github and insert link)
 *ECE 175: Computer Programming with Engineering Applications 1 (C)*
 - list basic functionality of assignments w/ links
 
