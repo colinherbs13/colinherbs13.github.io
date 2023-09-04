@@ -72,5 +72,3 @@ I have graduated from the University of Arizona with a degree in Electrical and 
 **Email:** colin.herbert.13@gmail.com
 
 **Phone:** (520) 705-8202
-
-**Address:** 1741 E. Hedrick Dr. Tucson, AZ 85719
