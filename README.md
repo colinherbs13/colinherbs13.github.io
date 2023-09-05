@@ -98,6 +98,7 @@ I am a recent graduate from the University of Arizona with a degree in Electrica
 - 3D game using Blender for modeling/shaders
 - Player tries to gather evidence to find the murderer
 - NPC dialog system, as well as dynamically-allocating notebook based on text and user answers
+- Dialog changes based on time of day as well as location
 
 ![image](https://github.com/colinherbs13/colinherbs13.github.io/assets/89946762/7a8d1549-1759-41ae-9352-c68bbe5faf61)
 ![image](https://github.com/colinherbs13/colinherbs13.github.io/assets/89946762/82a8c72e-11d6-4f4a-9b8e-3fb87a55226a)
