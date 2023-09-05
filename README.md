@@ -11,6 +11,7 @@ I am a recent graduate from the University of Arizona with a degree in Electrica
 - Tic-Tac-Toe in C++ with CPU player
 - Recursive solution of water jug problem
 - 2D and 3D games made in Unity
+- Heart Monitor IoT device website
 
 ### Northrop Grumman Launch Vehicle Ground Support Equipment
 *Note that screenshots and access to code are limited due to NDA*
@@ -107,6 +108,16 @@ I am a recent graduate from the University of Arizona with a degree in Electrica
 ![image](https://github.com/colinherbs13/colinherbs13.github.io/assets/89946762/8ba3f449-cc7f-4e11-a9d2-c0df87c799a6)
 ![image](https://github.com/colinherbs13/colinherbs13.github.io/assets/89946762/921e4278-6526-4e90-86a2-c8388fa3f3ec)
 ![image](https://github.com/colinherbs13/colinherbs13.github.io/assets/89946762/2c811699-5121-4a46-a6ac-e4892e73d310)
+
+### Heart Monitor Device Website (2022) 
+- Routing utilized by express
+- User can create account credentials and login
+- User can register a heart monitor device and view a page that displays data outputted by device
+
+![image](https://github.com/colinherbs13/colinherbs13.github.io/assets/89946762/aaed606a-a08d-4d8e-922b-48f25a6addcc)
+![image](https://github.com/colinherbs13/colinherbs13.github.io/assets/89946762/290a7ea8-5898-4b91-9727-c34dc714ae21)
+![image](https://github.com/colinherbs13/colinherbs13.github.io/assets/89946762/179c3ed9-a5ba-4020-b92c-5e9281db9904)
+![image](https://github.com/colinherbs13/colinherbs13.github.io/assets/89946762/5d513a64-0a5a-464c-a7c8-0a106983612f)
 
 
 #### Contact
