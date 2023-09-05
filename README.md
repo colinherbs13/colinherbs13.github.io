@@ -10,6 +10,7 @@ I am a recent graduate from the University of Arizona with a degree in Electrica
 - Memory allocation and File read/write in C
 - Tic-Tac-Toe in C++ with CPU player
 - Recursive solution of water jug problem
+- 2D and 3D games made in Unity
 
 ### Northrop Grumman Launch Vehicle Ground Support Equipment
 *Note that screenshots and access to code are limited due to NDA*
