@@ -9,7 +9,7 @@ I am a recent graduate from the University of Arizona with a degree in Electrica
 - Hearts card game made in C
 - Memory allocation and File read/write in C
 - Tic-Tac-Toe in C++ with CPU player
-- Code from previous coursework with descriptions
+- Recursive solution of water jug problem
 
 ### Northrop Grumman Launch Vehicle Ground Support Equipment
 *Note that screenshots and access to code are limited due to NDA*
@@ -65,25 +65,46 @@ I am a recent graduate from the University of Arizona with a degree in Electrica
 - Can search for movies based on title start letter, keyword, minimum rating, release year, max length, genre
 
 ### Tic-Tac-Toe in C++ (2019) [Link](https://github.com/colinherbs13/Text-Based-Game-Collection.git)
-- Text-based game collection in C++
-- Utilizes classes, algorithms
-- Only tic-tac-toe works. Computer player uses minimax algorithm for AI.
+- Text-based game in C++
+- Can be one or two players
+- User can place their X or O by inputting the number corresponding to the square they want to place it on.
+- Computer player uses minimax algorithm for AI.
 
 ![image](https://user-images.githubusercontent.com/89946762/145728130-991995b6-e8cc-446f-ae8e-0d9c5b680ba9.png)
 
-### Previous Relevant Courseworks and Assignments [Link](upload to github and insert link)
-*ECE 175: Computer Programming with Engineering Applications 1 (C)*
-- list basic functionality of assignments w/ links
+### Water Jug Problem using C++ (2023) [Link](https://github.com/colinherbs13/Waterjug-Problem.git)
+- Program that solves the water jug problem using recursion
+- User uses command line argument with text file specifying initial state, goal state, and capacity of each of the jugs
+- Can either fill a jug completely, empty a jug completely, or pour one jug's liquid into the other jug.
+- Checks if current state of jugs meets goal, recursively calls each possible operation, then saves and returns path if valid path is found
 
-*ECE 275: Computer Programming with Engineering Applications 2 (C++)*
-- list basic functionality of assignments w/ links
+![image](https://github.com/colinherbs13/colinherbs13.github.io/assets/89946762/11b19f93-e8f9-4b8c-a122-53994266c0c8)
+![image](https://github.com/colinherbs13/colinherbs13.github.io/assets/89946762/12b6f716-ae92-41e4-82ea-e981d96a02dc)
 
-*CSC 120: Basic Computer Programming 2 (Python)*
-- list basic functionality of assignments w/ links
+### Tower Defense Game using Unity/C# (2022)
+- 2D sprite-based game using Unity Engine
+- Player uses first phase to gather resources to build towers while on a timer.
+- After time expires, player can purchase towers to kill incoming waves of rats.
+- Player wins after conquering every wave. Loses if poison bar on top left becomes completely full
+- Can gather resources in between waves
 
-*ECE 373: Object-Oriented Programming and Design (Java)*
-- list basic functionality of assignments w/ links
+![image](https://github.com/colinherbs13/colinherbs13.github.io/assets/89946762/9c713ecc-c1dc-4e49-a425-5ef28cc539c3)
+![image](https://github.com/colinherbs13/colinherbs13.github.io/assets/89946762/beb40848-3191-450e-b601-c8045fc68884)
+![image](https://github.com/colinherbs13/colinherbs13.github.io/assets/89946762/031e2991-93c3-4ae1-ad54-77e5594402ad)
+![image](https://github.com/colinherbs13/colinherbs13.github.io/assets/89946762/c33faa81-19e9-4290-93fa-d6a86d977243)
+![image](https://github.com/colinherbs13/colinherbs13.github.io/assets/89946762/a7d1098f-4060-4272-a838-1b2e6ae723dd)
 
+### 3D Murder Mystery Game using Unity/C# (2022)
+- 3D game using Blender for modeling/shaders
+- Player tries to gather evidence to find the murderer
+- NPC dialog system, as well as dynamically-allocating notebook based on text and user answers
+
+![image](https://github.com/colinherbs13/colinherbs13.github.io/assets/89946762/7a8d1549-1759-41ae-9352-c68bbe5faf61)
+![image](https://github.com/colinherbs13/colinherbs13.github.io/assets/89946762/82a8c72e-11d6-4f4a-9b8e-3fb87a55226a)
+![image](https://github.com/colinherbs13/colinherbs13.github.io/assets/89946762/500459aa-f3fc-44a8-af37-2e181c0fd424)
+![image](https://github.com/colinherbs13/colinherbs13.github.io/assets/89946762/8ba3f449-cc7f-4e11-a9d2-c0df87c799a6)
+![image](https://github.com/colinherbs13/colinherbs13.github.io/assets/89946762/921e4278-6526-4e90-86a2-c8388fa3f3ec)
+![image](https://github.com/colinherbs13/colinherbs13.github.io/assets/89946762/2c811699-5121-4a46-a6ac-e4892e73d310)
 
 
 #### Contact
