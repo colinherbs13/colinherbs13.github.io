@@ -3,15 +3,15 @@
 I am a recent graduate from the University of Arizona with a degree in Electrical and Computer Engineering with a minor in Computer Science. I have about 1 year of work and internship experience on a software team, and have a diverse background with multiple programming languages.
 
 ## Projects on this Site
-- Senior Capstone Project - Launch Vehicle Ground-Support Equipment sponsored by Northrop Grumman
-- Horror/Puzzle game made from scratch in Java
-- To-Do List application in Python using Tkinter library
-- Hearts card game made in C
-- Memory allocation and File read/write in C
-- Tic-Tac-Toe in C++ with CPU player
-- Recursive solution of water jug problem
-- 2D and 3D games made in Unity
-- Heart Monitor IoT device website
+- Senior Capstone Project - Launch Vehicle Ground-Support Equipment sponsored by Northrop Grumman (HTML, CSS, JavaScript, Node.js)
+- Horror/Puzzle game (Java)
+- To-Do List application (Python, TKinter Library)
+- Hearts Card Game (C)
+- Memory allocation and File read/write (C)
+- Tic-Tac-Toe with CPU Player (C++)
+- Recursive solution of water jug problem (C++)
+- 2D and 3D games made in Unity (C#)
+- Heart Monitor IoT device website (HTML, CSS, JavaScript, Node.js, IoT)
 
 ### Northrop Grumman Launch Vehicle Ground Support Equipment
 *Note that screenshots and access to code are limited due to NDA*
