@@ -12,6 +12,10 @@ I am a recent graduate from the University of Arizona with a degree in Electrica
 - Recursive solution of water jug problem (C++)
 - 2D and 3D games made in Unity (C#)
 - Heart Monitor IoT device website (HTML, CSS, JavaScript, Node.js, IoT)
+- SMS Spam Classifier (Python, TensorFlow, Pandas, Keras, Recurring Neural Networks)
+- Health Cost Prediction Model (Python, TensorFlow, Pandas, Linear Regression Model)
+- Book Recommendation Model (Python, Pandas, K-Nearest Neighbor Model)
+- Cat/Dog Image Classifier (Python, TensorFlow, Pandas, Convolutional Neural Network) 
 
 ### Northrop Grumman Launch Vehicle Ground Support Equipment
 *Note that screenshots and access to code are limited due to NDA*
@@ -119,6 +123,26 @@ I am a recent graduate from the University of Arizona with a degree in Electrica
 ![image](https://github.com/colinherbs13/colinherbs13.github.io/assets/89946762/179c3ed9-a5ba-4020-b92c-5e9281db9904)
 ![image](https://github.com/colinherbs13/colinherbs13.github.io/assets/89946762/5d513a64-0a5a-464c-a7c8-0a106983612f)
 
+### SMS Text Classifier (2023) [Link](https://github.com/colinherbs13/sms-text-classification) 
+- Utilizes Python. TensorFlow, Keras, and Pandas libraries
+- Can detect whether a text message is spam or from a friend using Natural Language Processing
+- Uses Long Short Term Memory layers in the model to predict text patterns
+
+### Health Cost Prediction Model (2023) [Link](https://github.com/colinherbs13/health-cost-prediction-model)
+- Utilizes Python and the Pandas and TensorFlow libraries
+- Replaces categorial data in a DataFrame with numerical data
+- Uses regression model to predict insurance costs over time
+
+### Book Recommendation Model (2023) [Link](https://github.com/colinherbs13/book-recommendation-knn)
+- Utilizes Python and the Pandas library
+- Takes a book from the dataset and recommends 5 books to the user with similar review scores
+- Uses a k-nearest neighbor modeling scheme
+
+### Cat/Dog Image Classifier (2023) [Link](https://github.com/colinherbs13/cat-dog-image-classifier)
+- Utilizes Python and the TensorFlow, Pandas, and Keras libraries
+- Modifies and makes translations on imagery to provide more datapoints for training
+- Uses a Convolutional Neural Network to distinguish features of dogs and cats using a dataset of training imagery
+- Predicts whether passed in images are a dog or a cat
 
 #### Contact
 **Email:** colin.herbert.13@gmail.com
