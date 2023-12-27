@@ -1,3 +1,5 @@
+import Project from '../components/Project'
+
 function Projects() {
     return (
         <div>

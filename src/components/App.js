@@ -27,12 +27,12 @@ function App() {
   const [router, setRouter] = React.useState(0);
   return (
     <div className="App">
-      <nav>
-        <button onClick={homeRoute}>Home</button>
-        <button onClick={projectsRoute}>Projects</button>
-        <button onClick={aboutRoute}>About Me</button>
-        <button onClick={contactRoute}>Contact</button>
-      </nav>
+      <ul className="App-navbar">
+        <li><button onClick={homeRoute}>Home</button></li>
+        <li><button onClick={projectsRoute}>Projects</button></li>
+        <li><button onClick={aboutRoute}>About Me</button></li>
+        <li><button onClick={contactRoute}>Contact</button></li>
+      </ul>
       
       { router===0 ? <Home/> : 
       router===1 ? <Projects/> :
