@@ -1,0 +1,10 @@
+.ProjectBox {
+    width: 100%;
+    height: 500px;
+    display: block;
+}
+
+.ProjectImage {
+    width: 500px;
+    height: 300px;
+}

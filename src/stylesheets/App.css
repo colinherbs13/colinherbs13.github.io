@@ -1,5 +1,24 @@
+html, body, #root, .App, .App-body{
+  height: 100%;
+}
+
+h1 { 
+  margin: 0;
+}
+
 .App {
   text-align: center;
+  background-color: lightgray;
+}
+
+.App-header{
+  background-color: black;
+  height: 180px;
+}
+
+.App-header img{
+  height: 80%;
+  margin: 20px 0 20px 0;
 }
 
 .App-navbar{
@@ -7,7 +26,8 @@
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333
+  background-color: #333;
+  color: white;
 }
 
 .App-navbar li {
@@ -32,4 +52,12 @@
   background-color: lightgray;
 }
 
+.App-body {
+  background-color: lightgray;
+  width: 100%;
+  height: auto;
+}
 
+#homeButton {
+  color: red;
+}

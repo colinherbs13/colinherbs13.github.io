@@ -1,9 +1,20 @@
 function AboutMe() {
     return (
         <div className="About">
-            <h1>Hello! My name is Colin Herbert</h1>
-            <p>I am a recent graduate from the University of Arizona with a degree in Electrical and Computer Engineering with a minor in Computer Science. 
-                I have about 1 year of work and internship experience on a software team, and have a diverse background with multiple programming languages.</p>
+            <h1>About Me</h1>
+            <h2>Education</h2>
+            <ul>
+                <li>University of Arizona Class of 2023</li>
+                <li>Major: Electrical and Computer Engineering</li>
+                <li>Minor: Computer Science</li>
+            </ul>
+            <h2>Interests</h2>
+            <ul>
+                <li>Baseball</li>
+                <li>Aviation</li>
+                <li>Video Games</li>
+                <li>Cooking</li>
+            </ul>
         </div>
     )
 }
