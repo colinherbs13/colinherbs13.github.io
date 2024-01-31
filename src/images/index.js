@@ -2,7 +2,7 @@
 export const header = require("./header.png");
 // Northrop Grumman Launch Vehicle Ground Support Equipment
 export const nghome = require("./ng-lvgse/ng-home.png");
-export const ngwidgets = require("./ng-lvgse/ng-widgets.png");
+export const ngwidgets = require("./colinherbs13.github.io/ng-lvgse/ng-widgets.png");
 // Larry
 export const larry_title = require("./larry/larry-title.png");
 export const larry_idle = require("./larry/larry-idle.png");
