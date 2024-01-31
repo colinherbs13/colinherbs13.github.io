@@ -1,0 +1,63 @@
+html, body, #root, .App, .App-body{
+  height: 100%;
+}
+
+h1 { 
+  margin: 0;
+}
+
+.App {
+  text-align: center;
+  background-color: lightgray;
+}
+
+.App-header{
+  background-color: black;
+  height: 180px;
+}
+
+.App-header img{
+  height: 80%;
+  margin: 20px 0 20px 0;
+}
+
+.App-navbar{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  color: white;
+}
+
+.App-navbar li {
+  float: left;
+  width: 25%
+}
+
+.App-navbar li button {
+  width: 100%;
+  display: inline-block;
+  padding: 14px 16px;
+  border: 1px solid gray;
+  
+  color: white;
+  background-color: #333;
+  font-size: 24px;
+  font-family: Didot, serif;
+  text-decoration: none;
+}
+
+.App-navbar li button:hover {
+  background-color: lightgray;
+}
+
+.App-body {
+  background-color: lightgray;
+  width: 100%;
+  height: auto;
+}
+
+#homeButton {
+  color: red;
+}
