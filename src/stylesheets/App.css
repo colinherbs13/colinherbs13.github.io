@@ -37,7 +37,7 @@ h1 {
 
 .App-navbar li button {
   width: 100%;
-  display: block;
+  display: inline-block;
   padding: 14px 16px;
   border: 1px solid gray;
   

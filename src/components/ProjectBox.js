@@ -1,5 +1,5 @@
 import '../stylesheets/ProjectBox.css'
-function ProjectBox({img, title, description, skills}){
+function ProjectBox({id, img, title, description, skills, link}){
     let imgIndex = 0;
 
     function leftImage(){
@@ -9,7 +9,7 @@ function ProjectBox({img, title, description, skills}){
         else {
             imgIndex -= 1;
         }
-        document.getElementById("projectImage").src = img[imgIndex];
+        document.getElementById(id).src = img[imgIndex];
         console.log(imgIndex);
     }
 
@@ -20,21 +20,28 @@ function ProjectBox({img, title, description, skills}){
         else {
             imgIndex += 1;
         }
-        document.getElementById("projectImage").src = img[imgIndex];
+        document.getElementById(id).src = img[imgIndex];
         console.log(imgIndex);
     }
     
+    const skillsArray = skills.map(skill => {
+        return <li> 
+            {skill}
+        </li>
+    })
     return (
         <div className="ProjectBox">
             <h2 className="ProjectTitle">{title}</h2>
             <div className="ProjectImageBox">
-                { img.length > 1 ? <button onClick={leftImage}>Left</button> : null }
-                { img.length > 1 ? <button onClick={rightImage}>Right</button> : null }
-                <br></br>
-                <img id="projectImage" className="ProjectImage" src={img[imgIndex]}/>
+                { img.length > 1 ? <button onClick={leftImage}>{"<"}</button> : null }
+                <img id={id} className="ProjectImage" src={img[imgIndex]}/>
+                { img.length > 1 ? <button onClick={rightImage}>{">"}</button> : null }
             </div>
             <p className="ProjectDescription">{description}</p>
-            <p className="ProjectSkills">{skills}</p>
+            <ul className="ProjectSkills">{skillsArray}</ul>
+            { link != null ? <a href={link}>View Source Code</a> : null}
+            <br></br>
+            <br></br>
         </div>
     );
 }
