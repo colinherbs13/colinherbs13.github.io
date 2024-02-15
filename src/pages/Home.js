@@ -1,4 +1,6 @@
 import {resume} from "../documents"
+import '../stylesheets/Home.css'
+
 function Home() {
     return (
         <div className="Home">

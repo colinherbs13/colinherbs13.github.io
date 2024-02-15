@@ -3,6 +3,10 @@
     width: 100%;
 }
 
+.projects h1 {
+    margin-bottom: 10px;
+}
+
 .projectTable {
     height: auto;
     width: 97%;
@@ -10,8 +14,8 @@
 }
 
 .projectTable, td, tr {
-    border: 5px solid black;
-    border-collapse: collapse
+    border: 5px solid #797d85;
+    border-collapse: collapse;
 }
 
 .projectTable td{
