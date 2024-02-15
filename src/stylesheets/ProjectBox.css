@@ -37,6 +37,12 @@
     margin-left: 25px;
 }
 
+.ProjectBox a:hover{
+    border: 3px solid #480782;
+    background-color: #024bf5;
+    color: white;
+}
+
 .ProjectBox button {
     width: 50px;
     height: 40px;

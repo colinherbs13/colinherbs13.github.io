@@ -1,4 +1,4 @@
-import { header, nghome, ngwidgets } from "../images" 
+import { nghome, ngwidgets } from "../images" 
 import { larry_clues, larry_idle, larry_puzzle, larry_title, larry_window } from "../images"
 import { lottery_resources, lottery_settings, lottery_title, lottery_tower1, lottery_tower2 } from "../images"
 import { mmm_house, mmm_intro, mmm_inventory, mmm_notebook, mmm_pier, mmm_well } from "../images"
@@ -119,5 +119,19 @@ export default [
             "Object Oriented Programming"
         ],
         link: "https://lazyspace.itch.io/mammal-murder-mayhem"
+    },
+    {
+        id: "tictactoe",
+        img: [
+            tictactoe_tie,
+        ],
+        title: "Tic-Tac-Toe Game",
+        description: "This is a basic, text-based tic-tac-toe game written in C++. \
+        This game supports either one or two players, with a computer player's choices being dictated by the minimax algorithm.",
+        skills: [
+            "C++",
+            "Minimax Algorithm",
+        ],
+        link: "https://github.com/colinherbs13/Text-Based-Game-Collection"
     }
 ]
