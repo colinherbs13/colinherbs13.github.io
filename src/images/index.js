@@ -1,5 +1,15 @@
 // Image for header of website
 export const header = require("./header.png");
+// Images in the About page
+export const arizona = require("./about/uofa.png");
+export const computer = require("./about/computer.png");
+export const philly = require("./about/philly.png");
+export const baseball = require("./about/baseball.png");
+export const hockey = require("./about/hockey.jpg");
+export const football = require("./about/football.jpg");
+export const aviation = require("./about/planes.png");
+export const games = require("./about/games.png");
+export const kitchen = require("./about/Kitchen.png");
 // Northrop Grumman Launch Vehicle Ground Support Equipment
 export const nghome = require("./ng-lvgse/ng-home.png");
 export const ngwidgets = require("./ng-lvgse/ng-widgets.png");
