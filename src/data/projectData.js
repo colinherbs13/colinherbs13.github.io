@@ -34,6 +34,27 @@ export default [
         ] 
     },
     {
+        id: "heartmonitor",
+        img: [
+            heart_title,
+            heart_create_acct,
+            heart_create_acct_fail,
+            heart_api_get
+        ], 
+        title: "Heart Monitor Device Website",
+        description: "This program takes a heart monitor device that records data periodically, connects its output to a MongoDB database, \
+        and displays those outputs in a webpage format. It allows for users to login to a webpage and view their own \
+        metrics in their patient portal.",
+        skills: [
+            "HTML, CSS, JavaScript",
+            "Express API Routing",
+            "MongoDB",
+            "API GET/POST",
+            "Login Authentication",
+            "Internet of Things"
+        ]
+    }, 
+    {
         id: "larry",
         img: [
             larry_title,
@@ -55,23 +76,6 @@ export default [
             "Serializing files for saving and loading data"
         ],
         link: "https://github.com/colinherbs13/Larry-Video-Game"
-    },
-    {
-        id: "todo",
-        img: [
-            todo_deadline_passed
-        ],
-        title: "To-Do List",
-        description: "To-Do List application where users can create multiple lists, \
-            set deadlines, and add and remove tasks from different lists. \
-            Can also save and load lists from text files.",
-        skills: [
-            "Python",
-            "Linked Lists (doubly linked)",
-            "Tkinter library",
-            "Writing and Reading from text files"
-        ],
-        link: "https://github.com/colinherbs13/To-Do-List-App"
     },
     {
         id: "lottery",
@@ -133,5 +137,53 @@ export default [
             "Minimax Algorithm",
         ],
         link: "https://github.com/colinherbs13/Text-Based-Game-Collection"
+    }, 
+    {
+        id: "hearts",
+        img: [
+            hearts_1
+        ],
+        title: "Hearts Card Game", 
+        description: "",
+        skills: [
+            "C++",
+            "Object-Oriented Programming",
+            "Functions"
+        ], 
+        link: "https://github.com/colinherbs13/Hearts-Card-Game"
+    },
+    {
+        id: "waterjug",
+        img: [
+            waterjug_input,
+            waterjug_output
+        ],
+        title: "Water Jug Problem",
+        description: "This program solves the water jug program using a custom recursive algorithm. \
+        The user can specify the initial state, goal state, and capacity of each of the water jugs using command line arguments. \
+        If a path is successfully found, the program will output each step taken.",
+        skills: [
+            "C++",
+            "Recursion",
+            "Command line arguments"
+        ],
+        link: "https://github.com/colinherbs13/Waterjug-Problem"
+    },
+    {
+        id: "todo",
+        img: [
+            todo_deadline_passed
+        ],
+        title: "To-Do List",
+        description: "To-Do List application where users can create multiple lists, \
+            set deadlines, and add and remove tasks from different lists. \
+            Can also save and load lists from text files.",
+        skills: [
+            "Python",
+            "Linked Lists (doubly linked)",
+            "Tkinter library",
+            "Writing and Reading from text files"
+        ],
+        link: "https://github.com/colinherbs13/To-Do-List-App"
     }
 ]
