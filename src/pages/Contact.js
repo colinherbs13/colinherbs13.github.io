@@ -2,7 +2,7 @@ import '../stylesheets/Contact.css'
 
 function Contact() {
     return (
-        <div>
+        <div className="Contact">
             <h1>Contact Information</h1>
             <h3>Email:</h3>
             <a href="mailto:colin.herbert.13@gmail.com">colin.herbert.13@gmail.com</a>
